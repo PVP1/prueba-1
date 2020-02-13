@@ -12,6 +12,4 @@ public class NotasAlumno {
 		int aciertos;
 		int fallos;
 	}
-	
-	public class notaglobal{/*hay 5 examenes a lo largo del curso con diferente peso para la nota final*/
 }
